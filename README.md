@@ -1,2 +1,2 @@
 # remind_yes
- my learnings replicas
+ for learnings in touch!!
