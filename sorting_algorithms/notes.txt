@@ -1,0 +1,12 @@
+Bubble Sort
+
+1) compare adjucancy items and bubble the largest to right.
+
+2) after one iteration largest number goest to the right end.
+
+3) after the check is enough to go until the first element of sorted which stores in right of 
+the array.
+
+Bubble sort is not an efficient sorting algorithms because it uses nested loops.
+It is usefull only for small data sets.
+O(n^2)
