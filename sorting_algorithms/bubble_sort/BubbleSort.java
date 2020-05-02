@@ -13,5 +13,5 @@ public int[] bubbleSort(int[] list){
 			}
 		}
 	}
-	return list;
+	return list; 
 }

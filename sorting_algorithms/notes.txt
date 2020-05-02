@@ -10,3 +10,9 @@ the array.
 Bubble sort is not an efficient sorting algorithms because it uses nested loops.
 It is usefull only for small data sets.
 O(n^2)
+
+Insertion Sort
+
+1) fix with first element and start with 2nd item on the left.
+
+1) all items to the let are smaller
