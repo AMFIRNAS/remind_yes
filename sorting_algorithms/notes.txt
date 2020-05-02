@@ -39,3 +39,17 @@ It is usefull only for small data sets.
 O(n^2)
 
 https://www.youtube.com/watch?v=cqh8nQwuKNE
+
+Merge Sort
+
+1) divide until one eleement each 
+
+2) when merging back where the real magic will be in place
+
+3) compare within the inside small list and sorted them until the full list is generated.
+
+
+Merge sort is recursive
+Divide and conquer algorithm
+very efficient for large data sets.
+O(nlogn)

@@ -1,0 +1,5 @@
+Linear search
+
+1) basic search mechanism
+
+2) start from first elemet and see the matching element until found then returns the index.
