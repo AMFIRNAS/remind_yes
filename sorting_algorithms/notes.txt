@@ -15,4 +15,27 @@ Insertion Sort
 
 1) fix with first element and start with 2nd item on the left.
 
-1) all items to the let are smaller
+2) all items to the let are smaller
+
+3) check the element and compare with it adjacant left element then swap it, if it is least no need to go with other left element
+but if the adjacant left element is larger we have to loop to the left in order to find the position to insert. This is about Insertion sort.
+
+4) kEY VALUE IS NOT CHANGED, ONLY J+1 WITH J HAPPENS based on the comparison of Key value.
+
+Insertion sort is not an efficient sorting algorithms because it uses nested loops.
+It is usefull only for small data sets.
+O(n^2)
+
+Selection sort
+
+1) starts with first element compare with right elemnet on by one, key would be the minimum value if comaring values are less than minimum value
+then min value variable is repalce with that value.
+
+2) so after first iteration the smallest value will be on first position.
+
+
+Selection sort is not an efficient sorting algorithms because it uses nested loops.
+It is usefull only for small data sets.
+O(n^2)
+
+https://www.youtube.com/watch?v=cqh8nQwuKNE
