@@ -3,3 +3,11 @@ Linear search
 1) basic search mechanism
 
 2) start from first elemet and see the matching element until found then returns the index.
+
+
+Bianry search
+
+1) sorted array 
+
+2) divide half then the middle element is less than or greater, based on that it check with one subset
+so it is recursive approach
